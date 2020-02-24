@@ -2,6 +2,3 @@ ram
 ketan
 rohit
 om
-sham
-kamal
-mamata
